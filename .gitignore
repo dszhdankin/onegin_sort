@@ -1,0 +1,5 @@
+
+*.o
+OneginSorter
+evgeniy_onegin_sorted.txt
+.idea/
