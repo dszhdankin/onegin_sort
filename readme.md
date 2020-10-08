@@ -1,3 +1,4 @@
+Target operating system should be Linux or another POSIX-compliant system.
 To build from project directory
 ```shell script
 make OneginSorter
