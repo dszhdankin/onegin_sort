@@ -3,7 +3,8 @@ To build from project directory
 make OneginSorter
 ```
 To run from project directory 
-(file should be encoded in UTF-16 and conatian Byte Order Mark)
+(File should be encoded in UTF-16 and conatian Byte Order Mark.
+The file 'evgeniy_onegin.txt' is already UTF-16 with BOM)
 ```shell script
 ./OneginSorter evgeniy_onegin.txt
 ```
